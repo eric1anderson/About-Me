@@ -1,4 +1,4 @@
-# About-Me
+# About Me
 
 Bachelors of Science in Computer Engineering '22
 
