@@ -10,6 +10,8 @@ Academic Interests: Machine Learning, Artificial Intelligence, Data Science
 
 Personal Interests: Neuroscience, nutrition, guitar, finance 
 
+Favorite Podcast: Huberman Lab
+
 ## Bookshelf (ML/AI/DS related)
 As of Summer 2022…
 
