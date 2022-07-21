@@ -1,7 +1,6 @@
 # About Me
 
-## UMass Amherst
-
+**University of Massachusetts Amherst**
 Bachelors of Science in Computer Engineering '22
 
 Masters of Science in Computer Science '24
