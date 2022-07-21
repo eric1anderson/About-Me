@@ -1,7 +1,7 @@
 # About Me
 
 
-**Education** University of Massachusetts Amherst:
+University of Massachusetts Amherst:
 
   - Masters of Science in Computer Science '24
 
