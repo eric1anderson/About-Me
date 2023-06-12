@@ -26,3 +26,13 @@ University of Massachusetts Amherst:
 - Hands-On Machine Learning - Aurélien Géron
 - Designing Machine Learning Systems - Chip Huyen
 - Machine Learning Engineering in Action - Ben Wilson
+
+Tools: Spark, Git
+
+Languages: Python, C/C++, SQL, Java
+
+Python Libraries: Pandas, NumPy, Sci-kit Learn, Keras, matplotlib, seaborn, boto
+
+Platforms: AWS, Databricks, Snowflake
+
+AWS Services: SageMaker, ECR, CodePipeline, Cloudformation, S3, DynamoDB, Lambda
