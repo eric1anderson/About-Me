@@ -21,7 +21,6 @@ University of Massachusetts Amherst:
 **Favorite Podcast**: Huberman Lab
 
 ### AI/ML Bookshelf
-===========================================
 - Deep Learning with Python - Francois Chollet
 - Hands-On Machine Learning - Aurélien Géron
 - Designing Machine Learning Systems - Chip Huyen
