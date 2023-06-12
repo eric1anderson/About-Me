@@ -28,12 +28,12 @@ University of Massachusetts Amherst:
 - Machine Learning Engineering in Action - Ben Wilson
 
 
-Languages: Python, C/C++, SQL, Java
+Languages: Python, SQL, C/C++, Java
 
-Python Libraries: Pandas, NumPy, Sci-kit Learn, Keras, MLflow, matplotlib, seaborn, boto
+Python Packages: Pandas, NumPy, Sci-kit Learn, Keras, MLflow, matplotlib, seaborn, boto
 
 Platforms: AWS, Databricks, Snowflake
 
 AWS Services: SageMaker, ECR, CodePipeline, Cloudformation, S3, DynamoDB, Lambda
 
-Tools: Spark, Git
+Tools: Spark, Git, Docker
