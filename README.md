@@ -2,7 +2,7 @@
 
 ### Employment
   
-  MLOps Data Engineer Co-op - Bose  January '23 - Present
+  MLOps Data Engineer Co-op - Bose  January '23 - August '23
 
 ### Education
 
