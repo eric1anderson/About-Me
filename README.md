@@ -26,6 +26,7 @@ University of Massachusetts Amherst:
 - Hands-On Machine Learning - Aurélien Géron
 - Designing Machine Learning Systems - Chip Huyen
 - Machine Learning Engineering in Action - Ben Wilson
+- Stanford CS231n Lecture Notes (Deep Learning for Computer Vision)
 
 
 Languages: Python, SQL, C/C++, Java
