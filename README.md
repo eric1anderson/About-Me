@@ -1,6 +1,7 @@
 # About Me
 
 ### Employment
+  Data Scientist Co-op - Bose January '24 - Present
   
   MLOps Data Engineer Co-op - Bose  January '23 - August '23
 
