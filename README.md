@@ -28,11 +28,11 @@ University of Massachusetts Amherst:
 - Designing Machine Learning Systems - Chip Huyen
 - Machine Learning Engineering in Action - Ben Wilson
 - Stanford CS231n Lecture Notes (Deep Learning for Computer Vision)
+- Natural Language Processing with Transformers - Lewis Tunstall
 
+Languages: Python, C/C++, Java, SQL
 
-Languages: Python, SQL, C/C++, Java
-
-Python Packages: Pandas, NumPy, Sci-kit Learn, Keras, MLflow, matplotlib, seaborn, boto
+Python Packages: Pandas, NumPy, Sci-kit Learn, Keras, MLflow, matplotlib, seaborn, boto3
 
 Platforms: AWS, Databricks, Snowflake
 
