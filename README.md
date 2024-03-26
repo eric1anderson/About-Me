@@ -19,7 +19,6 @@ University of Massachusetts Amherst:
 
 **Personal Interests**: Neuroscience, nutrition, guitar 
 
-**Favorite Podcast**: Huberman Lab
 
 
 ### AI/ML Bookshelf
