@@ -17,7 +17,6 @@ University of Massachusetts Amherst:
 
 **Academic Interests**: Machine Learning, Artificial Intelligence, Data Science
 
-**Personal Interests**: Neuroscience, nutrition, guitar 
 
 
 
@@ -37,4 +36,4 @@ Platforms: AWS, Databricks, Snowflake
 
 AWS Services: SageMaker, ECR, CodePipeline, Cloudformation, S3, DynamoDB, Lambda
 
-Tools: Spark, Git, Docker
+Tools: Spark, Docker
