@@ -1,6 +1,8 @@
 # About Me
 
 ### Employment
+  Data Scientist II GenAI - Bose Febuary '25 - Present
+
   Data Scientist Co-op - Bose January '24 - August '24
   
   MLOps Data Engineer Co-op - Bose  January '23 - August '23
