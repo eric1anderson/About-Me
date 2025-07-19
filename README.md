@@ -1,7 +1,7 @@
 # About Me
 
 ### Employment
-  Data Scientist II GenAI - Bose Febuary '25 - Present
+  Data Scientist II GenAI - Bose February '25 - Present
 
   Data Scientist Co-op - Bose January '24 - August '24
   
